@@ -236,11 +236,6 @@ plt.xticks(y_pos, bars)
 plt.show()
 
 
-# Reference:https://www.kaggle.com/manzoormahmood/analysis-of-zomato-restaurants-in-bangalore
-
-# This is my first analysis at Kaggle.
-# So if you like my work then upvote this notebook.
-# Thanks
 
 # 
 
